@@ -1,18 +1,22 @@
-# Dropdown Filter
+# Web App - "Healt Menu"
 
-Stack: JS / HTML / CSS
-
-<img style="max-width:50vh;" src="./img/img_readme.png" height="" alt="Preview"/> 
+Stack: Java Script / HTML / CSS / Webpack / Json-server / Node
 
 \
-UI component of the form for selecting filters (residential complex, district, area, metro)
+Web application with various modules:
+- Feedback forms: use json-server;
+- "Tabslider";
+- "Slider";
+- "Calculator Calorie calculator";
+- Сards menu lading via json-server;
+- Various timers, etc.
 
-Task:
-- Button opens dropdown, with a list of tabs-filters. Each of the tabs, contains its own list of switches.
-- Selected items, form an interactive list under the tabs, with the ability to delete. The area should scroll.
-- The button displays the total number of selected items in all tabs.
-- The shadow in the list should disappear if the list is scrolled to the end.
+Before start, Node.js should be installed.
 
-Requirements:\
-Conformity to layout. Correct work in Chrome and Firefox.
-Without Jquery and frameworks.
+## Start Json-server
+
+Feedback forms and menu cards
+
+```
+npx json-server db.json
+```
