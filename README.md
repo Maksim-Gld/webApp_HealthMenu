@@ -13,10 +13,16 @@ Web application with various modules:
 
 Before start, Node.js should be installed.
 
-## Start Json-server
+## Json-server
 
 Feedback forms and menu cards
 
+Instal Json-Server:
+```
+npm install json-server
+```
+
+Start Json-server:
 ```
 npx json-server db.json
 ```
