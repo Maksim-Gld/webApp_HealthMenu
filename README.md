@@ -1,6 +1,6 @@
 # Web App - "Healt Menu"
 
-Stack: Java Script / HTML / CSS / Webpack / Json-server / Node
+Stack: Java Script / HTML / CSS / Webpack / Json-server / Node / Babel
 
 \
 Web application with various modules:
