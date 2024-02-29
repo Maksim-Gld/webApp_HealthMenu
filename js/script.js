@@ -28,8 +28,4 @@ window.addEventListener('DOMContentLoaded', () => {
         field: '.offer__slider-inner'
     });
 
-    // fetch(urlDb)
-    //     .then(data => data.json())
-    //     .then(res => console.log(res));
-
 })
