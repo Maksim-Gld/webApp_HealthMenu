@@ -26,3 +26,13 @@ Start Json-server:
 ```
 npx json-server db.json
 ```
+
+
+### Example app blocks
+
+"Slider"\
+<img style="max-width:50vh;" src="./img/readme/slider.png" height="" alt="Slider"/> 
+
+"Calculator"\
+<img style="max-width:50vh;" src="./img/readme/calc.png" height="" alt="Calculator"/> 
+
